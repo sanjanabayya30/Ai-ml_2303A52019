@@ -19,4 +19,4 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
 
-[Lab 10](): Implement K-Means Clustering using Iris Data
+[Lab 10](https://github.com/sanjanabayya30/Ai-ml_2303A52019/blob/main/AIML_Ass10.ipynb): Implement K-Means Clustering using Iris Data
