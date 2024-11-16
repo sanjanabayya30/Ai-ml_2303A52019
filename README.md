@@ -13,7 +13,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 06](https://github.com/sanjanabayya30/Ai-ml_2303A52019/blob/main/AIML_Lab06.ipynb): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
-[Lab 07](https://github.com/sanjanabayya30/Ai-ml_2303A52019/blob/main/AIML_07.ipynb): Implement Support Vector Machine using Breast Cancer Data
+[Lab 07](https://github.com/sanjanabayya30/Ai-ml_2303A52019/blob/main/AIML_ASS07.ipynb): Implement Support Vector Machine using Breast Cancer Data
 
 [Lab 08](): Implement Decision Tree Classifier using Lending Club Data
 
